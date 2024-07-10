@@ -1,1 +1,14 @@
+*,*::before, *::after {
+  box-sizing: border-box;
+}
 
+html {
+  font-size: 62.5%;
+  max-height: 100vh;
+  max-width: 100%;
+}
+
+html,body {
+ margin: 0;
+ padding: 0;
+}
